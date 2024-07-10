@@ -4,7 +4,7 @@ In the root of the project directory run "go run ./cmd/web" without qoutes
 Open your browser to localhost:4000
 
 # Code Structure
-** cmd/web **
+**cmd/web**
 This is the main routing and business logic functionality of the app
 
 ** main.go **
