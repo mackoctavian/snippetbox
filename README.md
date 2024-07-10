@@ -1,5 +1,5 @@
 # SNIPPETBOX
-A project is part of learning go web develeopment using a **Let's Go Book** by [Alex Edwars](https://github.com/alexedwards)
+A project is part of learning go web develeopment using a **Let's Go Book** by [Alex Edwards](https://github.com/alexedwards)
 
 > [!IMPORTANT]
 > To run this application Go version 1.19 or high must be installed
